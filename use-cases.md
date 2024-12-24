@@ -23,3 +23,4 @@
 - [云智天下的自动化测试落地与演进](https://blog.fit2cloud.com/?p=4949)
 - [民生科技基于MeterSphere平台实现测试用例复用](https://blog.fit2cloud.com/?p=2288)
 - [九里云基于MeterSphere落地一站式自动化测试平台](https://blog.fit2cloud.com/?p=2078)
+- [金融科技公司DevOps与持续测试应用实践](https://blog.fit2cloud.com/?p=071bb008-faa1-4ee7-b7f4-c6b7e51adfc7)
