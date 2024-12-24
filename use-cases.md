@@ -25,3 +25,4 @@
 - [九里云基于MeterSphere落地一站式自动化测试平台](https://blog.fit2cloud.com/?p=2078)
 - [金融科技公司DevOps与持续测试应用实践](https://blog.fit2cloud.com/?p=071bb008-faa1-4ee7-b7f4-c6b7e51adfc7)
 - [易盛信息MeterSphere接口测试使用经验](https://blog.fit2cloud.com/?p=1601)
+- [基于JMeter的性能测试方案演进之路](https://blog.fit2cloud.com/?p=1621)
